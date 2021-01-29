@@ -12,4 +12,5 @@ format. This project has improved my overall thought process when it comes to la
 identical copy of the designs given.
 
 #### Thank you for reading 
+Live site: https://social-proof-section-czps4tvmn.vercel.app/
 
